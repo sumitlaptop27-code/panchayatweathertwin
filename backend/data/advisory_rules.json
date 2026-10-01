@@ -1,0 +1,147 @@
+[
+  {
+    "rule_id": "SOY-SOW-DRY",
+    "crop": "Soybean",
+    "crop_hi": "सोयाबीन",
+    "growth_stage": "Sowing",
+    "growth_stage_hi": "बुवाई",
+    "condition": {
+      "rain_max": 5,
+      "tmax_min": 32
+    },
+    "severity": "warning",
+    "advice_en": "Soil moisture critically low for soybean germination. Delay sowing until 20–25 mm cumulative rain. Ensure seed treatment with Rhizobium.",
+    "advice_hi": "सोयाबीन अंकुरण के लिए मिट्टी की नमी बहुत कम। 20-25 मिमी वर्षा तक बुवाई टालें। राइजोबियम से बीज उपचार करें।",
+    "sms_en": "LOW RAIN ALERT: Delay soybean sowing. Wait for 20mm+ rain. Treat seeds with Rhizobium. -KVK Jabalpur",
+    "sms_hi": "कम वर्षा: सोयाबीन बुवाई टालें। 20मिमी+ वर्षा की प्रतीक्षा करें। राइजोबियम से बीज उपचार करें।-KVK जबलपुर"
+  },
+  {
+    "rule_id": "SOY-SOW-OPT",
+    "crop": "Soybean",
+    "crop_hi": "सोयाबीन",
+    "growth_stage": "Sowing",
+    "growth_stage_hi": "बुवाई",
+    "condition": {
+      "rain_min": 20,
+      "rain_max": 60,
+      "tmax_max": 34
+    },
+    "severity": "advisory",
+    "advice_en": "Optimal rain window. Sow soybean JS-9305 or MACS-450 at 65–70 kg/ha. Apply 20:60:20 NPK at sowing. Inoculate seeds.",
+    "advice_hi": "अनुकूल वर्षा। सोयाबीन JS-9305 या MACS-450 65-70 किग्रा/हे. बोएं। 20:60:20 NPK डालें। बीज टीकाकरण करें।",
+    "sms_en": "GOOD RAIN: Sow JS-9305/MACS-450 soybean @ 65-70kg/ha. Apply 20:60:20 NPK. Inoculate seeds. -KVK Jabalpur",
+    "sms_hi": "अच्छी वर्षा: JS-9305 सोयाबीन 65किग्रा/हे. बोएं। 20:60:20 NPK डालें। -KVK जबलपुर"
+  },
+  {
+    "rule_id": "SOY-SOW-EXCESS",
+    "crop": "Soybean",
+    "crop_hi": "सोयाबीन",
+    "growth_stage": "Sowing",
+    "growth_stage_hi": "बुवाई",
+    "condition": {
+      "rain_min": 80
+    },
+    "severity": "warning",
+    "advice_en": "Excess rain risk. Ensure field drainage. Use broad-bed furrow planting to prevent waterlogging. Delay fertilizer application.",
+    "advice_hi": "अधिक वर्षा का जोखिम। खेत की जल निकासी सुनिश्चित करें। BBF पद्धति से बुवाई करें। खाद डालना टालें।",
+    "sms_en": "EXCESS RAIN: Ensure drainage for soybean. Use BBF method. Delay fertilizer. -KVK Jabalpur",
+    "sms_hi": "अधिक वर्षा: जल निकासी करें। BBF पद्धति उपयोग करें। खाद डालना टालें। -KVK जबलपुर"
+  },
+  {
+    "rule_id": "SOY-FLOWER-HEAT",
+    "crop": "Soybean",
+    "crop_hi": "सोयाबीन",
+    "growth_stage": "Flowering",
+    "growth_stage_hi": "फूल आना",
+    "condition": {
+      "tmax_min": 36,
+      "rain_max": 10
+    },
+    "severity": "alert",
+    "advice_en": "Heat stress at flowering causes pod abortion. Apply foliar spray (2% KNO3 or 0.2% boric acid). Irrigate if possible.",
+    "advice_hi": "फूल आने पर गर्मी से फलियाँ झड़ेंगी। KNO3 2% या 0.2% बोरिक एसिड का छिड़काव करें। सिंचाई करें।",
+    "sms_en": "HEAT ALERT 36°C+: Spray 2% KNO3 on soybean. Irrigate if possible. Pod loss risk. -KVK Jabalpur",
+    "sms_hi": "गर्मी चेतावनी 36°C+: KNO3 2% छिड़काव करें। सिंचाई करें। -KVK जबलपुर"
+  },
+  {
+    "rule_id": "SOY-POD-OPT",
+    "crop": "Soybean",
+    "crop_hi": "सोयाबीन",
+    "growth_stage": "Pod formation",
+    "growth_stage_hi": "फली बनना",
+    "condition": {
+      "rain_min": 15,
+      "rain_max": 50,
+      "tmax_max": 35
+    },
+    "severity": "advisory",
+    "advice_en": "Good conditions for pod filling. Monitor for girdle beetle. Apply second dose of potash (30 kg/ha MOP) if not done.",
+    "advice_hi": "फली भरने के लिए अनुकूल स्थिति। गर्डल बीटल की निगरानी करें। MOP 30 किग्रा/हे. डालें अगर नहीं डाला।",
+    "sms_en": "GOOD: Soybean pod fill OK. Watch girdle beetle. Apply MOP 30kg/ha if pending. -KVK Jabalpur",
+    "sms_hi": "अनुकूल: फली भराव ठीक। गर्डल बीटल देखें। MOP 30किग्रा डालें। -KVK जबलपुर"
+  },
+  {
+    "rule_id": "WHT-SOW-OPT",
+    "crop": "Wheat",
+    "crop_hi": "गेहूँ",
+    "growth_stage": "Sowing",
+    "growth_stage_hi": "बुवाई",
+    "condition": {
+      "tmax_max": 28,
+      "rain_max": 5
+    },
+    "severity": "advisory",
+    "advice_en": "Optimal sowing window for wheat (Nov 15–30). Sow GW-322 or HI-8498 at 100 kg/ha. Apply 120:60:40 NPK basal. Pre-sowing irrigation essential.",
+    "advice_hi": "गेहूँ बुवाई का सही समय (15-30 नवंबर)। GW-322 100 किग्रा/हे. बोएं। 120:60:40 NPK डालें। पलेवा करें।",
+    "sms_en": "WHEAT SOW NOW: GW-322@100kg/ha, apply 120:60:40 NPK. Pre-sow irrigation needed. -KVK Jabalpur",
+    "sms_hi": "गेहूँ बोएं: GW-322@100किग्रा/हे., 120:60:40 NPK डालें। पलेवा जरूरी। -KVK जबलपुर"
+  },
+  {
+    "rule_id": "WHT-GRAIN-HEAT",
+    "crop": "Wheat",
+    "crop_hi": "गेहूँ",
+    "growth_stage": "Grain filling",
+    "growth_stage_hi": "दाना भरना",
+    "condition": {
+      "tmax_min": 34
+    },
+    "severity": "alert",
+    "advice_en": "Terminal heat stress! Accelerates grain maturity and reduces weight. Spray 0.2% thiourea + 1% KCl. Irrigate immediately if water available.",
+    "advice_hi": "अंतिम गर्मी का तनाव! दाना पकना तेज होगा और वजन कम होगा। 0.2% थायोयूरिया + 1% KCl छिड़काव करें।",
+    "sms_en": "HEAT 34°C+: Wheat grain loss risk! Spray thiourea 0.2%+KCl 1%. Irrigate urgently. -KVK Jabalpur",
+    "sms_hi": "गर्मी 34°C+: गेहूँ दाने का नुकसान! थायोयूरिया+KCl छिड़काव, तुरंत सिंचाई करें। -KVK जबलपुर"
+  },
+  {
+    "rule_id": "WHT-GRAIN-FROST",
+    "crop": "Wheat",
+    "crop_hi": "गेहूँ",
+    "growth_stage": "Grain filling",
+    "growth_stage_hi": "दाना भरना",
+    "condition": {
+      "tmax_max": 18,
+      "rain_max": 5
+    },
+    "severity": "warning",
+    "advice_en": "Cold dry spell. Risk of frost below 5°C. Light irrigation (furrow) creates micro-climate shield. Avoid any standing water.",
+    "advice_hi": "ठंडा सूखा मौसम। पाले का खतरा। हल्की फुरो सिंचाई से सूक्ष्म जलवायु सुरक्षा करें।",
+    "sms_en": "COLD: Frost risk for wheat. Do light furrow irrigation as frost shield. -KVK Jabalpur",
+    "sms_hi": "ठंड: गेहूँ में पाले का खतरा। हल्की सिंचाई करें। -KVK जबलपुर"
+  },
+  {
+    "rule_id": "WHT-FLOWER-OPT",
+    "crop": "Wheat",
+    "crop_hi": "गेहूँ",
+    "growth_stage": "Flowering",
+    "growth_stage_hi": "फूल आना",
+    "condition": {
+      "tmax_min": 20,
+      "tmax_max": 30,
+      "rain_min": 0
+    },
+    "severity": "advisory",
+    "advice_en": "Good conditions at anthesis. Apply top-dress N (30 kg urea/ha). Monitor for yellow rust in hilly areas. Maintain soil moisture.",
+    "advice_hi": "फूल आने के लिए अनुकूल। 30 किग्रा यूरिया/हे. टॉप-ड्रेस करें। पहाड़ी क्षेत्रों में पीली ग्रिल्ली की निगरानी करें।",
+    "sms_en": "GOOD: Wheat anthesis OK. Apply urea 30kg/ha. Monitor yellow rust in hills. -KVK Jabalpur",
+    "sms_hi": "अनुकूल: गेहूँ फूल ठीक। 30किग्रा यूरिया डालें। पहाड़ में पीली ग्रिल्ली देखें। -KVK जबलपुर"
+  }
+]

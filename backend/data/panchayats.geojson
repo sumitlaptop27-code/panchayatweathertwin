@@ -1,0 +1,1370 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-01-P01",
+        "lgd_code": 482101,
+        "name": "Amarpur",
+        "name_hi": "अमरपुर",
+        "block_id": "MP-JBP-01",
+        "block_name": "Kundam",
+        "terrain": "hilly_forest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.13074250000001,
+              22.8413475
+            ],
+            [
+              80.2282575,
+              22.8413475
+            ],
+            [
+              80.2282575,
+              22.9178525
+            ],
+            [
+              80.13074250000001,
+              22.9178525
+            ],
+            [
+              80.13074250000001,
+              22.8413475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-01-P02",
+        "lgd_code": 482102,
+        "name": "Bheempur",
+        "name_hi": "भीमपुर",
+        "block_id": "MP-JBP-01",
+        "block_name": "Kundam",
+        "terrain": "hilly_forest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.06089349999999,
+              23.1136215
+            ],
+            [
+              80.1443065,
+              23.1136215
+            ],
+            [
+              80.1443065,
+              23.2091785
+            ],
+            [
+              80.06089349999999,
+              23.2091785
+            ],
+            [
+              80.06089349999999,
+              23.1136215
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-01-P03",
+        "lgd_code": 482103,
+        "name": "Chandpur",
+        "name_hi": "चंदपुर",
+        "block_id": "MP-JBP-01",
+        "block_name": "Kundam",
+        "terrain": "hilly_forest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.19500000000001,
+              23.1746425
+            ],
+            [
+              80.2742,
+              23.1746425
+            ],
+            [
+              80.2742,
+              23.2545575
+            ],
+            [
+              80.19500000000001,
+              23.2545575
+            ],
+            [
+              80.19500000000001,
+              23.1746425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-01-P04",
+        "lgd_code": 482104,
+        "name": "Devgaon",
+        "name_hi": "देवगाँव",
+        "block_id": "MP-JBP-01",
+        "block_name": "Kundam",
+        "terrain": "hilly_forest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.34236150000001,
+              23.126005
+            ],
+            [
+              80.4414385,
+              23.126005
+            ],
+            [
+              80.4414385,
+              23.195195
+            ],
+            [
+              80.34236150000001,
+              23.195195
+            ],
+            [
+              80.34236150000001,
+              23.126005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-01-P05",
+        "lgd_code": 482105,
+        "name": "Eklauta",
+        "name_hi": "एकलौता",
+        "block_id": "MP-JBP-01",
+        "block_name": "Kundam",
+        "terrain": "hilly_forest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.3043185,
+              23.113633
+            ],
+            [
+              80.39048149999999,
+              23.113633
+            ],
+            [
+              80.39048149999999,
+              23.223567000000003
+            ],
+            [
+              80.3043185,
+              23.223567000000003
+            ],
+            [
+              80.3043185,
+              23.113633
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-01-P06",
+        "lgd_code": 482106,
+        "name": "Fulwari",
+        "name_hi": "फुलवारी",
+        "block_id": "MP-JBP-01",
+        "block_name": "Kundam",
+        "terrain": "hilly_forest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.160888,
+              22.9173885
+            ],
+            [
+              80.270712,
+              22.9173885
+            ],
+            [
+              80.270712,
+              22.986611500000002
+            ],
+            [
+              80.160888,
+              22.986611500000002
+            ],
+            [
+              80.160888,
+              22.9173885
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-01-P07",
+        "lgd_code": 482107,
+        "name": "Ghansore",
+        "name_hi": "घनसोर",
+        "block_id": "MP-JBP-01",
+        "block_name": "Kundam",
+        "terrain": "hilly_forest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.20820850000001,
+              23.0599645
+            ],
+            [
+              80.2835915,
+              23.0599645
+            ],
+            [
+              80.2835915,
+              23.137635500000002
+            ],
+            [
+              80.20820850000001,
+              23.137635500000002
+            ],
+            [
+              80.20820850000001,
+              23.0599645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-01-P08",
+        "lgd_code": 482108,
+        "name": "Hardunia",
+        "name_hi": "हरदुनिया",
+        "block_id": "MP-JBP-01",
+        "block_name": "Kundam",
+        "terrain": "hilly_forest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2901685,
+              23.0509235
+            ],
+            [
+              80.3972315,
+              23.0509235
+            ],
+            [
+              80.3972315,
+              23.155676500000002
+            ],
+            [
+              80.2901685,
+              23.155676500000002
+            ],
+            [
+              80.2901685,
+              23.0509235
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-01-P09",
+        "lgd_code": 482109,
+        "name": "Itwa",
+        "name_hi": "इटवा",
+        "block_id": "MP-JBP-01",
+        "block_name": "Kundam",
+        "terrain": "hilly_forest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.30365649999999,
+              23.185070999999997
+            ],
+            [
+              80.4083435,
+              23.185070999999997
+            ],
+            [
+              80.4083435,
+              23.267329
+            ],
+            [
+              80.30365649999999,
+              23.267329
+            ],
+            [
+              80.30365649999999,
+              23.185070999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-01-P10",
+        "lgd_code": 482110,
+        "name": "Jhiriya",
+        "name_hi": "झिरिया",
+        "block_id": "MP-JBP-01",
+        "block_name": "Kundam",
+        "terrain": "hilly_forest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.0763295,
+              22.9011575
+            ],
+            [
+              80.14927049999999,
+              22.9011575
+            ],
+            [
+              80.14927049999999,
+              23.0038425
+            ],
+            [
+              80.0763295,
+              23.0038425
+            ],
+            [
+              80.0763295,
+              22.9011575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-01-P11",
+        "lgd_code": 482111,
+        "name": "Kolua",
+        "name_hi": "कोलुआ",
+        "block_id": "MP-JBP-01",
+        "block_name": "Kundam",
+        "terrain": "hilly_forest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.17742299999999,
+              23.1390415
+            ],
+            [
+              80.274377,
+              23.1390415
+            ],
+            [
+              80.274377,
+              23.2319585
+            ],
+            [
+              80.17742299999999,
+              23.2319585
+            ],
+            [
+              80.17742299999999,
+              23.1390415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-01-P12",
+        "lgd_code": 482112,
+        "name": "Lalbagh",
+        "name_hi": "लालबाग",
+        "block_id": "MP-JBP-01",
+        "block_name": "Kundam",
+        "terrain": "hilly_forest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.1439805,
+              22.918011999999997
+            ],
+            [
+              80.2534195,
+              22.918011999999997
+            ],
+            [
+              80.2534195,
+              23.012788
+            ],
+            [
+              80.1439805,
+              23.012788
+            ],
+            [
+              80.1439805,
+              22.918011999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-02-P01",
+        "lgd_code": 482113,
+        "name": "Amlai",
+        "name_hi": "अमलाई",
+        "block_id": "MP-JBP-02",
+        "block_name": "Panagar",
+        "terrain": "flat_plains"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.7284295,
+              23.407626
+            ],
+            [
+              79.7947705,
+              23.407626
+            ],
+            [
+              79.7947705,
+              23.509574
+            ],
+            [
+              79.7284295,
+              23.509574
+            ],
+            [
+              79.7284295,
+              23.407626
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-02-P02",
+        "lgd_code": 482114,
+        "name": "Bhatera",
+        "name_hi": "भटेरा",
+        "block_id": "MP-JBP-02",
+        "block_name": "Panagar",
+        "terrain": "flat_plains"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.72521099999999,
+              23.297803000000002
+            ],
+            [
+              79.804389,
+              23.297803000000002
+            ],
+            [
+              79.804389,
+              23.392997
+            ],
+            [
+              79.72521099999999,
+              23.392997
+            ],
+            [
+              79.72521099999999,
+              23.297803000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-02-P03",
+        "lgd_code": 482115,
+        "name": "Chhapri",
+        "name_hi": "छपरी",
+        "block_id": "MP-JBP-02",
+        "block_name": "Panagar",
+        "terrain": "flat_plains"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.877842,
+              23.2273465
+            ],
+            [
+              79.985158,
+              23.2273465
+            ],
+            [
+              79.985158,
+              23.299253500000003
+            ],
+            [
+              79.877842,
+              23.299253500000003
+            ],
+            [
+              79.877842,
+              23.2273465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-02-P04",
+        "lgd_code": 482116,
+        "name": "Dhanpuri",
+        "name_hi": "धनपुरी",
+        "block_id": "MP-JBP-02",
+        "block_name": "Panagar",
+        "terrain": "flat_plains"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.86265900000001,
+              23.393145999999998
+            ],
+            [
+              79.933741,
+              23.393145999999998
+            ],
+            [
+              79.933741,
+              23.463854
+            ],
+            [
+              79.86265900000001,
+              23.463854
+            ],
+            [
+              79.86265900000001,
+              23.393145999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-02-P05",
+        "lgd_code": 482117,
+        "name": "Ekaiya",
+        "name_hi": "एकैया",
+        "block_id": "MP-JBP-02",
+        "block_name": "Panagar",
+        "terrain": "flat_plains"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.7206285,
+              23.3355105
+            ],
+            [
+              79.8109715,
+              23.3355105
+            ],
+            [
+              79.8109715,
+              23.4134895
+            ],
+            [
+              79.7206285,
+              23.4134895
+            ],
+            [
+              79.7206285,
+              23.3355105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-02-P06",
+        "lgd_code": 482118,
+        "name": "Fagunia",
+        "name_hi": "फगुनिया",
+        "block_id": "MP-JBP-02",
+        "block_name": "Panagar",
+        "terrain": "flat_plains"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8752955,
+              23.058215
+            ],
+            [
+              79.9679045,
+              23.058215
+            ],
+            [
+              79.9679045,
+              23.155784999999998
+            ],
+            [
+              79.8752955,
+              23.155784999999998
+            ],
+            [
+              79.8752955,
+              23.058215
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-02-P07",
+        "lgd_code": 482119,
+        "name": "Ghunwa",
+        "name_hi": "घुनवा",
+        "block_id": "MP-JBP-02",
+        "block_name": "Panagar",
+        "terrain": "flat_plains"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.891323,
+              23.3691465
+            ],
+            [
+              79.96627699999999,
+              23.3691465
+            ],
+            [
+              79.96627699999999,
+              23.4630535
+            ],
+            [
+              79.891323,
+              23.4630535
+            ],
+            [
+              79.891323,
+              23.3691465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-02-P08",
+        "lgd_code": 482120,
+        "name": "Hirapur",
+        "name_hi": "हिरापुर",
+        "block_id": "MP-JBP-02",
+        "block_name": "Panagar",
+        "terrain": "flat_plains"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.562592,
+              23.331953
+            ],
+            [
+              79.640208,
+              23.331953
+            ],
+            [
+              79.640208,
+              23.419446999999998
+            ],
+            [
+              79.562592,
+              23.419446999999998
+            ],
+            [
+              79.562592,
+              23.331953
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-02-P09",
+        "lgd_code": 482121,
+        "name": "Indrapur",
+        "name_hi": "इंद्रपुर",
+        "block_id": "MP-JBP-02",
+        "block_name": "Panagar",
+        "terrain": "flat_plains"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.5817845,
+              23.200688000000003
+            ],
+            [
+              79.68761549999999,
+              23.200688000000003
+            ],
+            [
+              79.68761549999999,
+              23.303912
+            ],
+            [
+              79.5817845,
+              23.303912
+            ],
+            [
+              79.5817845,
+              23.200688000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-02-P10",
+        "lgd_code": 482122,
+        "name": "Jamtara",
+        "name_hi": "जमतारा",
+        "block_id": "MP-JBP-02",
+        "block_name": "Panagar",
+        "terrain": "flat_plains"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.77497050000001,
+              23.415983
+            ],
+            [
+              79.8450295,
+              23.415983
+            ],
+            [
+              79.8450295,
+              23.500617000000002
+            ],
+            [
+              79.77497050000001,
+              23.500617000000002
+            ],
+            [
+              79.77497050000001,
+              23.415983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-02-P11",
+        "lgd_code": 482123,
+        "name": "Khamaria",
+        "name_hi": "खमरिया",
+        "block_id": "MP-JBP-02",
+        "block_name": "Panagar",
+        "terrain": "flat_plains"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.7462115,
+              23.188623
+            ],
+            [
+              79.82438850000001,
+              23.188623
+            ],
+            [
+              79.82438850000001,
+              23.254776999999997
+            ],
+            [
+              79.7462115,
+              23.254776999999997
+            ],
+            [
+              79.7462115,
+              23.188623
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-02-P12",
+        "lgd_code": 482124,
+        "name": "Lalpur",
+        "name_hi": "लालपुर",
+        "block_id": "MP-JBP-02",
+        "block_name": "Panagar",
+        "terrain": "flat_plains"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.862238,
+              23.135386
+            ],
+            [
+              79.96216199999999,
+              23.135386
+            ],
+            [
+              79.96216199999999,
+              23.229414000000002
+            ],
+            [
+              79.862238,
+              23.229414000000002
+            ],
+            [
+              79.862238,
+              23.135386
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-03-P01",
+        "lgd_code": 482125,
+        "name": "Amkhera",
+        "name_hi": "अमखेरा",
+        "block_id": "MP-JBP-03",
+        "block_name": "Bargi",
+        "terrain": "riverine_reservoir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.972836,
+              22.9187925
+            ],
+            [
+              80.050364,
+              22.9187925
+            ],
+            [
+              80.050364,
+              23.0174075
+            ],
+            [
+              79.972836,
+              23.0174075
+            ],
+            [
+              79.972836,
+              22.9187925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-03-P02",
+        "lgd_code": 482126,
+        "name": "Banjari",
+        "name_hi": "बंजारी",
+        "block_id": "MP-JBP-03",
+        "block_name": "Bargi",
+        "terrain": "riverine_reservoir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.01956150000001,
+              22.8796895
+            ],
+            [
+              80.1098385,
+              22.8796895
+            ],
+            [
+              80.1098385,
+              22.9645105
+            ],
+            [
+              80.01956150000001,
+              22.9645105
+            ],
+            [
+              80.01956150000001,
+              22.8796895
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-03-P03",
+        "lgd_code": 482127,
+        "name": "Chandeli",
+        "name_hi": "चंदेली",
+        "block_id": "MP-JBP-03",
+        "block_name": "Bargi",
+        "terrain": "riverine_reservoir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.7866855,
+              22.865644500000002
+            ],
+            [
+              79.8531145,
+              22.865644500000002
+            ],
+            [
+              79.8531145,
+              22.9349555
+            ],
+            [
+              79.7866855,
+              22.9349555
+            ],
+            [
+              79.7866855,
+              22.865644500000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-03-P04",
+        "lgd_code": 482128,
+        "name": "Dhangoan",
+        "name_hi": "धनगवाँ",
+        "block_id": "MP-JBP-03",
+        "block_name": "Bargi",
+        "terrain": "riverine_reservoir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.067274,
+              22.765312
+            ],
+            [
+              80.17212599999999,
+              22.765312
+            ],
+            [
+              80.17212599999999,
+              22.871088
+            ],
+            [
+              80.067274,
+              22.871088
+            ],
+            [
+              80.067274,
+              22.765312
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-03-P05",
+        "lgd_code": 482129,
+        "name": "Ekatpur",
+        "name_hi": "एकटपुर",
+        "block_id": "MP-JBP-03",
+        "block_name": "Bargi",
+        "terrain": "riverine_reservoir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.869299,
+              22.808540999999998
+            ],
+            [
+              79.959301,
+              22.808540999999998
+            ],
+            [
+              79.959301,
+              22.911259
+            ],
+            [
+              79.869299,
+              22.911259
+            ],
+            [
+              79.869299,
+              22.808540999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-03-P06",
+        "lgd_code": 482130,
+        "name": "Fatehpur",
+        "name_hi": "फतेहपुर",
+        "block_id": "MP-JBP-03",
+        "block_name": "Bargi",
+        "terrain": "riverine_reservoir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.78028499999999,
+              23.118443999999997
+            ],
+            [
+              79.871915,
+              23.118443999999997
+            ],
+            [
+              79.871915,
+              23.190956
+            ],
+            [
+              79.78028499999999,
+              23.190956
+            ],
+            [
+              79.78028499999999,
+              23.118443999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-03-P07",
+        "lgd_code": 482131,
+        "name": "Gotitoria",
+        "name_hi": "गोतिटोरिया",
+        "block_id": "MP-JBP-03",
+        "block_name": "Bargi",
+        "terrain": "riverine_reservoir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.906495,
+              23.1186185
+            ],
+            [
+              79.978105,
+              23.1186185
+            ],
+            [
+              79.978105,
+              23.1981815
+            ],
+            [
+              79.906495,
+              23.1981815
+            ],
+            [
+              79.906495,
+              23.1186185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-03-P08",
+        "lgd_code": 482132,
+        "name": "Hanumantiya",
+        "name_hi": "हनुमंतिया",
+        "block_id": "MP-JBP-03",
+        "block_name": "Bargi",
+        "terrain": "riverine_reservoir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.88412199999999,
+              22.957988
+            ],
+            [
+              79.989678,
+              22.957988
+            ],
+            [
+              79.989678,
+              23.059012000000003
+            ],
+            [
+              79.88412199999999,
+              23.059012000000003
+            ],
+            [
+              79.88412199999999,
+              22.957988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-03-P09",
+        "lgd_code": 482133,
+        "name": "Imliya",
+        "name_hi": "इमलिया",
+        "block_id": "MP-JBP-03",
+        "block_name": "Bargi",
+        "terrain": "riverine_reservoir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.7310635,
+              23.054222
+            ],
+            [
+              79.8349365,
+              23.054222
+            ],
+            [
+              79.8349365,
+              23.159778
+            ],
+            [
+              79.7310635,
+              23.159778
+            ],
+            [
+              79.7310635,
+              23.054222
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-03-P10",
+        "lgd_code": 482134,
+        "name": "Jharnakachhar",
+        "name_hi": "झरनाकचार",
+        "block_id": "MP-JBP-03",
+        "block_name": "Bargi",
+        "terrain": "riverine_reservoir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.77647999999999,
+              23.004611
+            ],
+            [
+              79.85172,
+              23.004611
+            ],
+            [
+              79.85172,
+              23.081588999999997
+            ],
+            [
+              79.77647999999999,
+              23.081588999999997
+            ],
+            [
+              79.77647999999999,
+              23.004611
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "panchayat_id": "MP-JBP-03-P11",
+        "lgd_code": 482135,
+        "name": "Kadwai",
+        "name_hi": "कडवाई",
+        "block_id": "MP-JBP-03",
+        "block_name": "Bargi",
+        "terrain": "riverine_reservoir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.85243949999999,
+              22.972839999999998
+            ],
+            [
+              79.9229605,
+              22.972839999999998
+            ],
+            [
+              79.9229605,
+              23.07316
+            ],
+            [
+              79.85243949999999,
+              23.07316
+            ],
+            [
+              79.85243949999999,
+              22.972839999999998
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
